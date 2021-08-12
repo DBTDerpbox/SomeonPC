@@ -12,6 +12,12 @@ I do tons of stuff online! Come check it out at my Social Medias.
 <a href="https://twitter.com/SomeonPC">
   <img align="left" alt="SomeonPC | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<a href="https://www.reddit.com/user/SomeonPC">
+  <img align="left" alt="SomeonPC | Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+</a>
+<a href="https://www.tumblr.com/blog/someonpc">
+  <img align="left" alt="SomeonPC | Tumblr" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/tumblr.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SomeonPC.SomeonPC)
 
