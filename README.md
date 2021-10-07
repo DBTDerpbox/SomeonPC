@@ -15,4 +15,4 @@ Things I plan to work on *eventually*: [Legacy Edition Glide](https://github.com
 
 Things of note I consider complete: [Color Changer my beloved](https://github.com/DBTDerpbox/Color-Changer), [Trident Shards](https://github.com/DBTDerpbox/Trident-Shards), [Glowier Berries](https://github.com/DBTDerpbox/Glowier-Berries), [MC Plural Proxy](https://github.com/DBTDerpbox/MC-Plural-Proxy)
 
-![](https://visitor-badge.glitch.me/badge?page_id= DBTDerpbox.DBTDerpbox)
+![](https://visitor-badge.glitch.me/badge?page_id=DBTDerpbox.DBTDerpbox)
