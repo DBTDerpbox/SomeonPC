@@ -1,23 +1,18 @@
-### Ahoy!
+### 👋
 
-![SomeonPC's GitHub stats](https://github-readme-stats.vercel.app/api?username=SomeonPC&theme=midnight-purple&show_icons=true)
-![SomeonPC's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomeonPC&theme=midnight-purple)
+![DBTDerpbox's GitHub stats](https://github-readme-stats.vercel.app/api?username=DBTDerpbox&theme=gruvbox&show_icons=true)
+![DBTDerpbox's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DBTDerpbox&theme=gruvbox)
 
-I do tons of stuff online! Come check it out at my Social Medias.
+I like, do cool stuff with MCF because i'm too lazy to learn java
 
-</br>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="SomeonPC's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/SomeonPC">
-  <img align="left" alt="SomeonPC | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.reddit.com/user/SomeonPC">
-  <img align="left" alt="SomeonPC | Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCdxpYofwLrWbCrZo5rwEKQA">
-  <img align="left" alt="SomeonPC | YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
+I *try* to be available, but I can be quite busy, if you need me I can be found on PMC and the LEM Discord
 
-![](https://visitor-badge.glitch.me/badge?page_id=SomeonPC.SomeonPC)
+Check out my [Crafting Tweaks Collection](https://github.com/DBTDerpbox/dbtderpbox/blob/main/crafting-tweaks.md)
 
+Main project: [Legacy Edition Battle](https://github.com/DBTDerpbox/Legacy-Edition-Battle)
+
+Things I plan to work on *eventually*: [Legacy Edition Glide](https://github.com/DBTDerpbox/Legacy-Edition-Glide), Legacy Edition Tumble, MCLE Tutorial Ports, [Mob Arena](https://github.com/DBTDerpbox/Derpboxs-Mob-Arena)
+
+Things of note I consider complete: [Color Changer my beloved](https://github.com/DBTDerpbox/Color-Changer), [Trident Shards](https://github.com/DBTDerpbox/Trident-Shards), [Glowier Berries](https://github.com/DBTDerpbox/Glowier-Berries), [MC Plural Proxy](https://github.com/DBTDerpbox/MC-Plural-Proxy)
+
+![](https://visitor-badge.glitch.me/badge?page_id= DBTDerpbox.DBTDerpbox)
